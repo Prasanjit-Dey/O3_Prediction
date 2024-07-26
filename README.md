@@ -6,5 +6,5 @@
 
 3. The **Results** file contains the ViT code for validating the model's accuracy using different percentages of the input dataset (10% to 100%).
 
-4. The **Validation_Models** file contains the code for SOTA methods.
+4. The **Validation models** file contains the code for SOTA methods.
 
